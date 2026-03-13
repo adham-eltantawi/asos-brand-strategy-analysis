@@ -78,4 +78,4 @@ jupyter notebook analysis.ipynb
  
 Scraped ASOS product listings — 30,845 rows × 9 columns including product name, price, size availability, color, SKU, and description.
  
-📂 **[View Dataset on Kaggel](https://www.kaggle.com/datasets/trainingdatapro/asos-e-commerce-dataset-30845-products)**
+📂 **[View Dataset on Kaggle](https://www.kaggle.com/datasets/trainingdatapro/asos-e-commerce-dataset-30845-products)**
