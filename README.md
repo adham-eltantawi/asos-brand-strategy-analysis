@@ -40,7 +40,7 @@ Brands like **Mango**, **Pull&Bear**, and **Topshop** sit in the top-right quadr
 
 ```
 ├── analysis.ipynb                 # Full notebook with all steps
-├── brand_analysis_insights.md     # Detailed plan & insights (6-step framework)
+├── plan_and_insights.md           # Detailed plan & insights (6-step framework)
 ├── requirements.txt               # Python dependencies
 ├── products_asos                  # dataset
 ├── brand_strategy_chart.png
