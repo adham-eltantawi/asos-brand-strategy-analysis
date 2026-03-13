@@ -42,7 +42,6 @@ Brands like **Mango**, **Pull&Bear**, and **Topshop** sit in the top-right quadr
 ├── analysis.ipynb                 # Full notebook with all steps
 ├── plan_and_insights.md           # Detailed plan & insights (6-step framework)
 ├── requirements.txt               # Python dependencies
-├── products_asos                  # dataset
 ├── brand_strategy_chart.png
 └── README.md
 ```
@@ -76,5 +75,7 @@ jupyter notebook analysis.ipynb
 ---
 
 ## 📌 Dataset
-
+ 
 Scraped ASOS product listings — 30,845 rows × 9 columns including product name, price, size availability, color, SKU, and description.
+ 
+📂 **[View Dataset on Google Sheets]([YOUR_GOOGLE_SHEET_LINK](https://docs.google.com/spreadsheets/d/1KIfvOWWfJqvlDgBVviCRKzW0Rmy3hgqS-xxS_OPYp88/edit?usp=sharing))**
