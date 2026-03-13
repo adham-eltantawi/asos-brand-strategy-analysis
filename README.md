@@ -78,4 +78,4 @@ jupyter notebook analysis.ipynb
  
 Scraped ASOS product listings — 30,845 rows × 9 columns including product name, price, size availability, color, SKU, and description.
  
-📂 **[View Dataset on Google Sheets]([YOUR_GOOGLE_SHEET_LINK](https://docs.google.com/spreadsheets/d/1KIfvOWWfJqvlDgBVviCRKzW0Rmy3hgqS-xxS_OPYp88/edit?usp=sharing))**
+📂 **[View Dataset on Google Sheets](https://docs.google.com/spreadsheets/d/1KIfvOWWfJqvlDgBVviCRKzW0Rmy3hgqS-xxS_OPYp88/edit?usp=sharing)**
